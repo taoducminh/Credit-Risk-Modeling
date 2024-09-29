@@ -29,27 +29,4 @@ Expected loss is a key output of credit risk models, and it combines three compo
 - **Exposure at Default (EAD)**: The amount outstanding at the time of default
 This notebook calculates the expected loss based on these components.
 
-## How to Use
-1. Clone or download the project repository.
-2. Install the necessary dependencies using:
-    ```
-    pip install -r requirements.txt
-    ```
-3. Run the notebooks in the following order:
-    - Credit Risk Modeling - Preparation.ipynb
-    - Credit Risk Modeling - PD Model.ipynb
-    - Credit Risk Modeling - Monitoring.ipynb
-    - Credit Risk Modeling - Calculating Expected Loss Complete.ipynb
 
-## Requirements
-- Python 3.x
-- Jupyter Notebook
-- Libraries (install using requirements.txt):
-    - pandas
-    - numpy
-    - sklearn
-    - matplotlib
-    - seaborn
-
-## License
-This project is licensed under the MIT License.
